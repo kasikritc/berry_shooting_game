@@ -8,5 +8,5 @@ This game is inspired by Space Invaders, a classic arcade game. In order to make
 
 # Files
 
-data: the folder that contains images that are used in the game
-shooting_game.pyde: the source code of the game which causes the game to animate and run properly
+data: the folder that contains images that are used in the game<br>
+shooting_game.pyde: the source code of the game which causes the game to animate and run properly<br>
